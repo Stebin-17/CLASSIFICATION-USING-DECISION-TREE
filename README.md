@@ -1,4 +1,4 @@
-<h1 align='center'> CLASSIFCATION-USING-DECISION-TREE </h1>
+<h1 align='center'> CLASSIFICATION-USING-DECISION-TREE </h1>
 
 <h2> INTRODUCTION </h2>
 
